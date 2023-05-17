@@ -6,6 +6,9 @@ body {
   h1 {
     text-align: center;
     background-image: url("https://cdn3.f-cdn.com/files/download/90046415/html-trick.jpg");
+    background-size: cover;
+    height: 700px;
+    width: 100px;
   }
   
   h2 {

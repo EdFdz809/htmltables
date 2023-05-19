@@ -31,3 +31,9 @@ body {
     font-family: monospace;
     background-color: beige;
   }
+
+#banner .content {
+    margin: 2px solid black;
+    position: relative;
+    height: 100px;
+}
